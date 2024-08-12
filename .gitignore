@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# IDEs
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+
+# IntelliJ
+*.iml
+*.iws
+*.swp
+*.swo
